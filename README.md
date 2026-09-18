@@ -6,6 +6,10 @@ O **Minecraft Connection Tester** é uma aplicação desktop desenvolvida para r
 
 O projeto utiliza **Rust e Tauri** em seu backend, com **Tokio** para o gerenciamento assíncrono das conexões. A interface da aplicação é desenvolvida utilizando **TypeScript e Vite**.
 
+## Demonstração
+
+[![Demonstração do projeto](https://img.youtube.com/vi/5EGZJGGljzI/maxresdefault.jpg)](https://youtu.be/5EGZJGGljzI)
+
 ## Como funciona
 
 A aplicação estabelece conexões **TCP** diretamente com o servidor informado pelo usuário. Após estabelecer a conexão, o programa realiza o processo inicial de comunicação utilizando o protocolo de rede do Minecraft.
