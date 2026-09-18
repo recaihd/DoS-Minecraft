@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Test conexoes</title>
+</head>
+
+<body>
+
+  <div class="app">
+
+
+
+    <div class="config">
+
+      <input
+        id="ip"
+        type="text"
+        placeholder="IP / Host"
+        value="127.0.0.1"
+      >
+
+      <input
+        id="port"
+        type="number"
+        placeholder="Port"
+        value="25968"
+      >
+
+      <input
+        id="bots"
+        type="number"
+        placeholder="Bots"
+        value="100"
+      >
+
+      <button id="start">START</button>
+      <button id="stop" disabled>STOP</button>
+
+    </div>
+
+    <div id="console" class="console"></div>
+
+  </div>
+
+  <script type="module" src="/src/main.ts"></script>
+
+</body>
+</html>

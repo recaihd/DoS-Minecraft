@@ -1,0 +1,28 @@
+Este Termo de Licença e Isenção de Responsabilidade destina-se a proteger o desenvolvedor de qualquer uso indevido da ferramenta (como testes não autorizados ou sobrecarga de servidores de terceiros).
+
+TERMO DE LICENÇA E ISENÇÃO DE RESPONSABILIDADE DO USUÁRIO FINAL
+
+Ao fazer o download, instalar ou utilizar este aplicativo de teste de conectividade para servidores de Minecraft ("Software"), você concorda expressamente com os termos estabelecidos neste documento. Se você não concordar com estes termos, não instale nem utilize o Software.
+
+1. Concessão de Licença
+O desenvolvedor concede a você uma licença individual, revogável, não exclusiva e intransferível para executar o Software exclusivamente para fins de diagnóstico pessoal e verificação de conectividade de rede.
+
+2. Limitação de Uso e Responsabilidade do Usuário
+
+Autorização prévia: O uso deste Software para enviar requisições ou pacotes de conexão a qualquer servidor de Minecraft deve ser feito estritamente em servidores de sua propriedade ou em servidores onde você possui autorização expressa do proprietário/administrador.
+
+Uso malicioso: É estritamente proibido utilizar o Software para realizar ataques de negação de serviço (DoS/DDoS), escaneamento agressivo de portas não autorizadas, estresse de rede ou qualquer atividade que interfira no funcionamento normal de infraestruturas de terceiros.
+
+Conformidade legal: O usuário assume total e exclusiva responsabilidade civil e criminal por quaisquer ações executadas com o auxílio deste Software.
+
+3. Isenção Total de Garantias e Responsabilidade
+
+Uso por sua conta e risco: O Software é fornecido "no estado em que se encontra" (AS IS), sem garantias de qualquer tipo, explícitas ou implícitas, incluindo, mas não se limitando a, garantias de funcionamento ininterrupto, adequação a um propósito específico ou ausência de erros.
+
+Inexistência de danos: Em nenhuma hipótese o desenvolvedor será responsável por quaisquer danos diretos, indiretos, incidentais, punitivos ou consequentes (incluindo perda de dados, bloqueios de IP, banimentos em provedores de hospedagem, falhas de hardware ou interrupção de negócios) decorrentes do uso ou da incapacidade de uso deste Software.
+
+4. Ausência de Vínculo Oficial
+Este Software é uma ferramenta independente desenvolvida por terceiros e não possui qualquer vínculo, endosso, patrocínio ou afiliação oficial com a Mojang AB, Microsoft Corporation ou qualquer uma de suas subsidiárias. "Minecraft" é uma marca registrada da Mojang Synergies AB.
+
+5. Indenização
+Você concorda em defender, indenizar e isentar o desenvolvedor de qualquer reivindicação, perda, responsabilidade, custo ou despesa (incluindo honorários advocatícios) decorrentes da sua violação deste Termo ou do uso inadequado do Software.
